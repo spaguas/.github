@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Water_drop_icon.svg" alt="SP Águas Logo" width="120" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/1/1e/Water_drop_icon.svg](https://media.licdn.com/dms/image/v2/D4D0BAQEtDh68Uezd3A/company-logo_200_200/company-logo_200_200/0/1727802419122/daeesp_logo?e=2147483647&v=beta&t=hNpFNIquKKSb502E1wH-YikAJXvgbQefwE3H4vaPgjk)" alt="SP Águas Logo" width="120" />
 </p>
 
 <h1 align="center">🌊 SP Águas</h1>
