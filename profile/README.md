@@ -2,9 +2,9 @@
 <!-- README institucional da organização SP Águas no GitHub -->
 <!-- ========================================================= -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEtDh68Uezd3A/company-logo_200_200/company-logo_200_200/0/1727802419122/daeesp_logo?e=2147483647&v=beta&t=hNpFNIquKKSb502E1wH-YikAJXvgbQefwE3H4vaPgjk" alt="SP Águas Logo" width="120" />
-</p>
+</p>-->
 
 <h1 align="center">🌊 SP Águas</h1>
 <h3 align="center">Gestão de Recursos Hídricos do Estado de São Paulo</h3>
