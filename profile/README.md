@@ -73,7 +73,7 @@ A SP Águas adota práticas de segurança alinhadas à **Lei Geral de Proteção
 
 ### 3. Vulnerabilidades
 - Caso identifique uma vulnerabilidade ou falha de segurança, **não abra uma issue pública**.  
-  Envie um e-mail para: **seguranca@spaguas.sp.gov.br**.  
+  Envie um e-mail para: **diego.monteiro@spaguas.sp.gov.br**.  
   A equipe de segurança avaliará e responderá conforme o nível de criticidade.
 
 ### 4. Dependências e Licenças
