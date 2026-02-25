@@ -93,5 +93,5 @@ A SP Águas adota práticas de segurança alinhadas à **Lei Geral de Proteção
 
 ## 📄 Licença
 
-Todos os projetos da SP Águas são disponibilizados sob a licença **MIT**, salvo indicação em contrário nos repositórios específicos.
+Todos os projetos da SP Águas são disponibilizados sob a licença **Apache 2.0**, salvo indicação em contrário nos repositórios específicos.
 
